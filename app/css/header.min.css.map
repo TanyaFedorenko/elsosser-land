@@ -1,0 +1,1 @@
+{"version":3,"sources":["header.scss"],"names":[],"mappings":"AAAA,QACI,YAAA,KAGJ,8BACI,YAEJ,UACI,YAAA","file":"header.min.css","sourcesContent":[".header{\r\n    padding-top: 10px;\r\n}\r\n\r\n.navbar-light .navbar-toggler{\r\n    border:none\r\n}\r\n.nav-link{\r\n    white-space: nowrap;\r\n}"]}

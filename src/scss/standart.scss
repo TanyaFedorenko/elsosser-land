@@ -1,0 +1,31 @@
+.standart {
+    margin-bottom: 90px;
+
+    &__img {
+        height: 729px;
+    }
+
+    &__title {
+        color: #fff;
+    }
+
+    &__container {
+padding: 0;
+        margin: 0 auto;
+        background: #163DA1;
+    }
+
+    &__content {
+        color: #fff;
+        padding-top: 151px;
+    }
+}
+
+@media(max-width:768px) {
+    .standart {
+        padding-top: 32px;
+    }
+    .standart__content{
+        padding: 0 10px;
+    }
+}
